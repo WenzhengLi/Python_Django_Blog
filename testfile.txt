@@ -1,0 +1,35 @@
+----Python_Django_Blog\
+    |----.idea\
+    |    |----.gitignore
+    |    |----inspectionProfiles\
+    |    |    |----profiles_settings.xml
+    |    |----misc.xml
+    |    |----modules.xml
+    |    |----Python_Django_Blog.iml
+    |    |----workspace.xml
+    |----a.py
+    |----blog\
+    |    |----admin.py
+    |    |----apps.py
+    |    |----migrations\
+    |    |    |----__init__.py
+    |    |----models.py
+    |    |----tests.py
+    |    |----views.py
+    |    |----__init__.py
+    |----db.sqlite3
+    |----manage.py
+    |----Python_Django_Blog\
+    |    |----asgi.py
+    |    |----settings.py
+    |    |----urls.py
+    |    |----wsgi.py
+    |    |----__init__.py
+    |    |----__pycache__\
+    |    |    |----settings.cpython-38.pyc
+    |    |    |----urls.cpython-38.pyc
+    |    |    |----wsgi.cpython-38.pyc
+    |    |    |----__init__.cpython-38.pyc
+    |----README.md
+    |----testfile
+    |----testfile.txt
