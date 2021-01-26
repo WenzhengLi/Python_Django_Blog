@@ -1,6 +1,6 @@
 
 
-# Django Web框架入门 博客
+# [Django Web框架入门 博客](https://www.cnblogs.com/WenzhengLi/p/14300556.html)
 
 # 第一章：课程准备
 
