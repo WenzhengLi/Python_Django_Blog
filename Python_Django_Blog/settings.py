@@ -77,7 +77,9 @@ WSGI_APPLICATION = 'Python_Django_Blog.wsgi.application'
 
 DATABASES = {
     'default': {
+        #数据库驱动
         'ENGINE': 'django.db.backends.sqlite3',
+        #数据库文件
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
